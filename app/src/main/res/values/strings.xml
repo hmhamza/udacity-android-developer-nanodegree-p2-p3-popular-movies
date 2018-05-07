@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="title_pop_movies">Popular Movies</string>
+    <string name="title_top_movies">Top Rated Movies</string>
+    <string name="title_fav_movies">My Favorite Movies</string>
+    <string name="no_internet_msg_long">No internet connection. Make sure Wi-Fi or cellular data is turned on, then try again.</string>
+    <string name="no_internet_msg_short">No Internet Connection. Try again later.</string>
+</resources>
