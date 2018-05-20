@@ -24,6 +24,35 @@ By building this app, I can demonstrate my understanding of the foundational ele
 - Fetch data from the Internet with theMovieDB API.
 - Use adapters and custom list layouts to populate list views.
 - Incorporate libraries to simplify the amount of code you need to write
+---
+
+# Project Review
+
+Congratulations, you did a great job, fixed the reported issue from the previous review, now it is all good :clap: :clap:
+
+Happy learning and good luck with the rest of the projects :smiley:
+
+### Common Project Requirements
+##### :heavy_check_mark: App is written solely in the Java Programming Language.
+
+##### :heavy_check_mark: Movies are displayed in the main layout via a grid of their corresponding movie poster thumbnails.
+
+##### :heavy_check_mark: UI contains an element (i.e a spinner or settings menu) to toggle the sort order of the movies by: most popular, highest rated.
+
+##### :heavy_check_mark: UI contains a screen for displaying the details for a selected movie.
+
+##### :heavy_check_mark: Movie details layout contains title, release date, movie poster, vote average, and plot synopsis.
+
+### User Interface - Function
+##### :heavy_check_mark: When a user changes the sort criteria (“most popular and highest rated”) the main view gets updated correctly.
+
+##### :heavy_check_mark: When a movie poster thumbnail is selected, the movie details screen is launched.
+
+### Network API Implementation
+##### :heavy_check_mark: In a background thread, app queries the ```/movie/popular``` or ```/movie/top_rated``` API for the sort criteria specified in the settings menu.
+
+### General Project Guidelines
+##### :heavy_check_mark:App conforms to common standards found in the [Android Nanodegree General Project Guidelines](http://udacity.github.io/android-nanodegree-guidelines/core.html).
 
 ---
 
