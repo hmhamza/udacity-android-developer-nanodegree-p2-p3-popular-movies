@@ -1,4 +1,5 @@
 # Popular Movies, Stage 1
+#### _Udacity Android Developer Nanodegree Project# 2_
 
 ### Project Overview
 Most of us can relate to kicking back on the couch and enjoying a movie with friends and family. In this project, I built an app to allow users to discover the most popular movies playing. The development of this app is split in two stages. First, let's talk about stage 1.
@@ -57,6 +58,7 @@ Happy learning and good luck with the rest of the projects :smiley:
 ---
 
 # Popular Movies, Stage 2
+#### _Udacity Android Developer Nanodegree Project# 3_
 
 ### Project Overview
 Welcome back to Popular Movies! In this second and final stage, I added additional functionality to the app I built in Stage 1.
